@@ -1,5 +1,5 @@
 # STM32F722-discovery-board-PCB
-CANDLE
+CANDLE,
 An STM32F722RET6 discovery board PCB design.
 
 Getting Started
