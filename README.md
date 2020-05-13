@@ -1,3 +1,8 @@
 # STM32F722-discovery-board-PCB
+CANDLE
+An STM32F722RET6 discovery board PCB design.
 
-PCB for discovery board of the STM32F722RET6 chip.
+Getting Started
+You can use EasyEda or KiCAD for editing or generating gerbers or you can use the gerber provided.
+
+
