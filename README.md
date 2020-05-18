@@ -6,6 +6,8 @@ You can use EasyEda or KiCAD for editing or generating gerbers or you can use th
 
 Here is what the PCB looks like,
 
-![PCB]-(https://github.com/Elvez/STM32F722-discovery-board-PCB/blob/master/Capturel.PNG)
+![PCBFront](https://github.com/Elvez/STM32F722-discovery-board-PCB/blob/master/Capturel.PNG)
+![PCBBack](https://github.com/Elvez/STM32F722-discovery-board-PCB/blob/master/Capturell.PNG)
+![PCBLayout](https://github.com/Elvez/STM32F722-discovery-board-PCB/blob/master/Capturelll.PNG)
 
 
